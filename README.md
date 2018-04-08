@@ -6,4 +6,4 @@
 
 This is my final project for the CarND Term 1. The goal is to detect car in a video stream. This is done by and SVC classifier with multiple image features. Densed Optical Flow is later on used to removed outlier by the variance of the pixel angle and speed.
 
-Please check my Jupyter Notebook for more information.
+Please check my Jupyter Notebook for more information or look my final project video
